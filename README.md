@@ -2,7 +2,7 @@
 
 **GIVANTA MASTERS** · мебель для тех, кто делает вещи руками
 
-![WORKSHOP ONE](renders/hero.png)
+![WORKSHOP ONE](renders/photo-hero.png)
 
 Рабочее место для инженера-мейкера, который **паяет, печатает на 3D-принтере,
 красит и собирает**. Два независимых модуля из берёзовой фанеры 18 мм:
@@ -21,14 +21,30 @@
 | Мелочёвка и инструмент | тумба слева | три ящика: метизы, инструмент, электроника |
 | 3D-печать | башня | площадка на высоте 596 мм под принтер до 614 мм шириной (Creality K2 встаёт), закрытый склад филамента снизу, полка сверху |
 
-## Рендеры
+## Визуализации
+
+![Зона пайки](renders/photo-soldering.png)
+
+| | |
+|---|---|
+| ![Башня принтера](renders/photo-tower.png) | ![Ящики](renders/photo-drawers.png) |
+
+## Чертежи
+
+Размеры в мм. Исходники — SVG в [docs/drawings](docs/drawings).
+
+![Чертёж верстака](docs/drawings/workbench.svg)
+
+![Чертёж башни](docs/drawings/tower.svg)
+
+![Печатные детали](docs/drawings/printed-parts.svg)
+
+## Модель в Fusion 360
 
 | | |
 |---|---|
 | ![Изометрия](renders/iso-left.png) | ![Фронт](renders/front.png) |
 | ![Надстройка](renders/riser-logo.png) | ![Башня принтера](renders/printer-tower.png) |
-
-![Ящики](renders/drawers.png)
 
 ## Габариты
 

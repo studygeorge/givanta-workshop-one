@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620" font-family="Arial">
+<rect width="1100" height="620" fill="white"/>
+<rect x="8" y="8" width="1084" height="604" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+<text x="70.0" y="50.0" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#1a1a1a" text-anchor="start" font-weight="bold">Печатные детали (PETG, без поддержек)</text>
+<text x="140.0" y="198.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">Крючок перфопанели — 6 шт</text>
+<path d="M 140.0 420.0 L 155.6 420.0 L 155.6 274.4 L 264.8 274.4 L 264.8 238.0 L 140.0 238.0 Z" fill="#f5ddc8" stroke="#1a1a1a" stroke-width="1.4"/>
+<line x1="140.0" y1="222.0" x2="264.8" y2="222.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 140.0 222.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 140.0 222.0)"/>
+<path d="M 264.8 222.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 264.8 222.0)"/>
+<text x="202.4" y="217.0" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">48</text>
+<line x1="140.0" y1="236.0" x2="140.0" y2="216.0" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="264.8" y1="236.0" x2="264.8" y2="216.0" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="118.0" y1="238.0" x2="118.0" y2="420.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 118.0 238.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 118.0 238.0)"/>
+<path d="M 118.0 420.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 118.0 420.0)"/>
+<text x="111.0" y="329.0" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 111.0 329.0)">70</text>
+<line x1="140.0" y1="446.0" x2="155.6" y2="446.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 140.0 446.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 140.0 446.0)"/>
+<path d="M 155.6 446.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 155.6 446.0)"/>
+<text x="147.8" y="441.0" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">6</text>
+<line x1="286.8" y1="238.0" x2="286.8" y2="274.4" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 286.8 238.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 286.8 238.0)"/>
+<path d="M 286.8 274.4 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 286.8 274.4)"/>
+<text x="279.8" y="256.2" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 279.8 256.2)">14</text>
+<text x="202.4" y="461.6" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c8500a" text-anchor="middle">ширина 14</text>
+<text x="420.0" y="198.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">Ручка ящика — 3 шт</text>
+<rect x="420.0" y="300.4" width="280.0" height="41.6" fill="#f5ddc8" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="420.0" y1="284.4" x2="700.0" y2="284.4" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 420.0 284.4 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 420.0 284.4)"/>
+<path d="M 700.0 284.4 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 700.0 284.4)"/>
+<text x="560.0" y="279.4" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">140</text>
+<line x1="420.0" y1="298.4" x2="420.0" y2="278.4" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="700.0" y1="298.4" x2="700.0" y2="278.4" stroke="#c8500a" stroke-width="0.6" stroke-dasharray="4 3"/>
+<line x1="398.0" y1="300.4" x2="398.0" y2="342.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 398.0 300.4 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 398.0 300.4)"/>
+<path d="M 398.0 342.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 398.0 342.0)"/>
+<text x="391.0" y="321.2" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 391.0 321.2)">16</text>
+<text x="560.0" y="373.2" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#c8500a" text-anchor="middle">выступ от фасада 10 мм</text>
+<text x="800.0" y="198.0" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a" text-anchor="start" font-weight="bold">Ручка двери — 2 шт</text>
+<rect x="800.0" y="238.0" width="26.0" height="240.0" fill="#f5ddc8" stroke="#1a1a1a" stroke-width="1.2"/>
+<line x1="778.0" y1="238.0" x2="778.0" y2="238.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 778.0 238.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 778.0 238.0)"/>
+<path d="M 778.0 238.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 778.0 238.0)"/>
+<line x1="778.0" y1="238.0" x2="778.0" y2="478.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 778.0 238.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(90.0 778.0 238.0)"/>
+<path d="M 778.0 478.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(270.0 778.0 478.0)"/>
+<text x="771.0" y="358.0" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle" transform="rotate(-90.0 771.0 358.0)">120</text>
+<line x1="800.0" y1="222.0" x2="826.0" y2="222.0" stroke="#c8500a" stroke-width="0.9"/>
+<path d="M 800.0 222.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(0.0 800.0 222.0)"/>
+<path d="M 826.0 222.0 l 9 -3 l 0 6 z" fill="#c8500a" transform="rotate(180.0 826.0 222.0)"/>
+<text x="813.0" y="217.0" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#c8500a" text-anchor="middle">10</text>
+<rect x="622" y="558" width="470" height="54" fill="white" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="634" y="580" font-size="17" font-weight="bold" fill="#c8500a" font-family="Segoe UI, Arial">GIVANTA MASTERS</text>
+<text x="634" y="600" font-size="13" fill="#1a1a1a" font-family="Segoe UI, Arial">WORKSHOP ONE — печатные детали PETG, М 1:1 · размеры в мм</text>
+</svg>
