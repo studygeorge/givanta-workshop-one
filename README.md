@@ -97,6 +97,10 @@
 - [cad/workshop-one-full.step](cad/workshop-one-full.step) — полная сборка (STEP)
 - Модель построена скриптом через Fusion 360 API — все размеры параметрические
 
+## Серия GIVANTA MASTERS
+
+- [BINSTACK](https://github.com/studygeorge/givanta-binstack) — настольный органайзер электронщика (фанера + версия для 3D-печати)
+
 ## Лицензия
 
 CC BY 4.0 — стройте, дорабатывайте, делитесь. Указывайте авторство:
